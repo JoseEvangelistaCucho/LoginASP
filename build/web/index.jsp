@@ -7,14 +7,14 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-    <head> 
+    <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="font/css/font-awesome.min.css">
         <link rel='stylesheet prefetch' href='bootstrap/css/bootstrap.min.css'>
         <link rel="stylesheet" href="css/style.css">
         <title>.::Login::.</title>
     </head>
-    <body>
+    <body >
         <div class="wrapper">
             <form class="form-signin" action="accesoLogin" method="POST">
                 <center><span class="fa fa-user fa-5x"></span></center>
